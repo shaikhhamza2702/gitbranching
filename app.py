@@ -2,7 +2,7 @@
 
 # Define a function that calculates the area of a rectangle
 def calculate_area(length, width):
-   total area of rectangle= length * width
+   total area of rectangle= length * width *(1-0)
     return area
 
 # Assign values to length and width
