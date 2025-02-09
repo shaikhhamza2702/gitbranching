@@ -6,7 +6,7 @@ def calculate_area(length, width):
     return area
 
 # Assign values to length and width
-length = 5
+length = 5.0
 width = 3
 
 # Call the function with arguments
